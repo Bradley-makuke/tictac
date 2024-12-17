@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # tictac
 My Java project
 =======
